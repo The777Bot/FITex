@@ -11,3 +11,6 @@
 3)  Tracking and analytics for user progress.
 4)  Customizable reminders and motivational content.
 5)  Feedback collection
+
+## Figma Design
+[View the Figma design](https://www.figma.com/design/9tjmED4yipk5lQOHH58qhr/Fitex-webapp?node-id=1-2&t=76yUNiDckZfBZXD6-1k).
