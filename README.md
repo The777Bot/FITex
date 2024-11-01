@@ -13,6 +13,6 @@
 5)  Feedback collection
 
 ## Figma Design
-<a href="https://www.figma.com/design/9tjmED4yipk5lQOHH58qhr/Fitex-webapp?node-id=1-2&t=76yUNiDckZfBZXD6-1k" target="_blank">View the Figma design</a>
+<a href="https://www.figma.com/proto/9tjmED4yipk5lQOHH58qhr/Fitex-webapp?page-id=1%3A2&node-id=120-252&node-type=canvas&viewport=1338%2C-494%2C0.29&t=vGDbXimFQapTvkFR-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=120%3A252&share=1" target="_blank">View the Figma design</a>
 
 
